@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portfolio
 
 Static portfolio site — plain HTML/CSS/JS, no build step.
@@ -27,3 +28,6 @@ git push -u origin main
 3. Save. Your site goes live at `https://<your-username>.github.io/<repo-name>/` within a minute or two.
 
 If you want it at the root of `https://<your-username>.github.io`, name the repo exactly `<your-username>.github.io` instead.
+=======
+# portfolio
+>>>>>>> 368558d1c89508acd8d08b02ffc7a2ea9de475b5
